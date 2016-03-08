@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UIImage.aspectFillImage() -&gt; UIImage:UIImage+Resize.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageRef">
+            </PersistentString>
+            <PersistentString
+               value = "self.CGImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationDetailsViewController.choosePhotoFromLibrary() -&gt; ():LocationDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LocationDetailsViewController.done() -&gt; ():LocationDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.hasPhoto">
+            </PersistentString>
+            <PersistentString
+               value = "location.photoID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIImage.aspectFillImage(UIImage) -&gt; UIImage:UIImage+Resize.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
